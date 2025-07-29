@@ -17,16 +17,7 @@ A responsive landing page for a fictional dog dating app built with HTML, CSS, a
 - Bootstrap 5
 - flexbox
 - grid
-- float
-
-
-## Sections
-- Modern, responsive design
-- Pricing plans
-- Testimonials
-- Custom SVG icons
-- Bootstrap 5 styling
-  
+- float  
 
 <img width="1573" height="834" alt="image" src="https://github.com/user-attachments/assets/e6bec5a9-364b-48b9-bb8f-a0101534f7c8" />
 
