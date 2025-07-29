@@ -2,7 +2,7 @@
 
 A responsive landing page for a fictional dog dating app built with HTML, CSS, and Bootstrap.
 <img width="1855" height="957" alt="image" src="https://github.com/user-attachments/assets/751b88a9-2796-4ee9-b3bb-a321cd3381f1" />
-[Live Demo](your-demo-link) | [View Code]([github-repo-link](https://github.com/devmanojnagarajan/TinDog/blob/main/index.html))
+
 
 ## Features
 - Modern, responsive design that works on all devices
