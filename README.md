@@ -19,7 +19,8 @@ A responsive landing page for a fictional dog dating app built with HTML, CSS, a
 - grid
 - float  
 
-<img width="1573" height="834" alt="image" src="https://github.com/user-attachments/assets/e6bec5a9-364b-48b9-bb8f-a0101534f7c8" />
+<img width="1433" height="982" alt="image" src="https://github.com/user-attachments/assets/fdeb17d8-cb00-4180-920b-351ff98a8934" />
+
 
 Developed during my self-directed software development studies,
 this project showcases the practical application of responsive design principles and Bootstrap framework knowledge gained through structured coursework. 
